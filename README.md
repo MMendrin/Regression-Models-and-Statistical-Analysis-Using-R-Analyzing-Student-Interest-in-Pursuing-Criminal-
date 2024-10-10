@@ -11,11 +11,11 @@ Various questions will be asked and addressed in this project:
 
 1) In the Just-World & Sexism Scales, there are several sets of survey questions that may potentially act as factors associated with students’ attitudes towards police, with these sets of questions listed below. Which of these factors are associated with a student’s attitude towards police?
 
-Global Belief in a Just World Scale (GBJW 1-7)
-Hostile Sexism Towards Women (ASI 1-6)
-Benevolent Sexism Towards Women (ASI 7-12)
-Hostile Sexism Towards Men (AMI 1-6)
-Benevolent Sexism Towards Men (AMI 7-12)
+-Global Belief in a Just World Scale (GBJW 1-7) <br />
+-Hostile Sexism Towards Women (ASI 1-6) <br />
+Benevolent Sexism Towards Women (ASI 7-12) <br />
+Hostile Sexism Towards Men (AMI 1-6) <br />
+Benevolent Sexism Towards Men (AMI 7-12) <br />
 
 2) Considering the same factors as previously mentioned, are any of these factors related to whether a student wants to pursue a criminal justice career (CJCareerInterest)?
 
