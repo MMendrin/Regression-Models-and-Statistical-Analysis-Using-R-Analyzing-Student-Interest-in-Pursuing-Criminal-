@@ -1,4 +1,4 @@
-setwd("~/math 193c")
+
 library(tidyverse)
 library(nnet)
 projectdata <- read_csv("CAS1_ Cleaned_January 30, 2023.csv")
