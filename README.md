@@ -1,6 +1,6 @@
 
 
-# Criminology Annual Survey: Student Perceptions of Law Enforcement & Victimization: Regression Models and Statistical Analysis Using R
+# Student Perceptions of Law Enforcement & Victimization: Regression Models and Statistical Analysis Using R
 M. Mendrin
 
 The models and analysis discussed in this project focus on the data procured from the Criminology Annual Survey on Perceptions of Law Enforcement & Victimization.  As the study seeks to determine the attitudes of students towards law enforcement and how such attitudes may relate to their experiences and perspectives regarding criminal justice and criminal justice careers, such topics will be analyzed to provide further understanding.
