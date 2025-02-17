@@ -2,6 +2,12 @@
 # Regression Models and Statistical Analysis Using R: Analyzing Student Interest in Pursuing Criminal Justice Careers
 M. Mendrin
 
+### Skills Highlighted In This Project Include:
+Regression Modeling Using R (Such as Linear, Logistic, Multinomial) <br />
+Assessing Model Fitness And Accuracy Through Hypothesis Testing and Statistical Analysis <br />
+Exploratory Factor Anlysis (Used to Simplify Complex Datasets By Grouping Highly Correlated Variables Together) <br />
+Construct Meaningful Visualizations to Showcase Variable Relationships and Statistical Insights  <br />
+
 The models and analysis discussed in this project focus on the data procured from the Criminology Annual Survey on Perceptions of Law Enforcement & Victimization.  As the study seeks to determine the attitudes of students towards law enforcement and how such attitudes may relate to their experiences and perspectives regarding criminal justice and criminal justice careers, such topics will be analyzed to provide further understanding.
 
 ### This project includes an R-Script file, a PDF report of the project details, as well as a Powerpoint presentation summarizing the project method and results.
