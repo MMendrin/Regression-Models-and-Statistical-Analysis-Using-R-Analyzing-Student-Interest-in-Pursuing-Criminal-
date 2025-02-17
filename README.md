@@ -3,10 +3,10 @@
 M. Mendrin
 
 ### Skills Highlighted In This Project Include:
-Regression Modeling Using R (Such as Linear, Logistic, Multinomial) <br />
-Assessing Model Fitness And Accuracy Through Hypothesis Testing and Statistical Analysis <br />
-Exploratory Factor Anlysis (Used to Simplify Complex Datasets By Grouping Highly Correlated Variables Together) <br />
-Construct Meaningful Visualizations to Showcase Variable Relationships and Statistical Insights  <br />
+- Regression Modeling Using R (Such as Linear, Logistic, Multinomial) <br />
+- Assessing Model Fitness And Accuracy Through Hypothesis Testing and Statistical Analysis <br />
+- Exploratory Factor Anlysis (Used to Simplify Complex Datasets By Grouping Highly Correlated Variables Together) <br />
+- Construct Meaningful Visualizations to Showcase Variable Relationships and Statistical Insights  <br />
 
 The models and analysis discussed in this project focus on the data procured from the Criminology Annual Survey on Perceptions of Law Enforcement & Victimization.  As the study seeks to determine the attitudes of students towards law enforcement and how such attitudes may relate to their experiences and perspectives regarding criminal justice and criminal justice careers, such topics will be analyzed to provide further understanding.
 
